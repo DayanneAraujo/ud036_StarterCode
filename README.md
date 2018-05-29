@@ -1,6 +1,3 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
-
 # Fresh Tomatos
 
 It's a simple application to show on a web browser information about movies from a list.
@@ -10,8 +7,9 @@ movie and it will play the movie trailer.
 ## Usage
 
 * Python is required, so please install [here](https://www.python.org/downloads/).
-* git clone
-* cd folder
+* git clone https://github.com/DayanneAraujo/ud036_StarterCode.git
+* cd ud036_StarterCode
+* Run the entertainment_center.py file
 ```
 python entertainment_center.py
 ```
