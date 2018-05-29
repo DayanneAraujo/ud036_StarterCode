@@ -1,7 +1,7 @@
 # Fresh Tomatos
 
 It's a simple application to show on a web browser information about movies from a list.
-When you run the main file, it will open a web browser and you will be able to select a
+When you run the main file, it will open a web browser, so you will be able to select a
 movie and it will play the movie trailer.
 
 ## Usage
