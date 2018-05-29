@@ -15,7 +15,7 @@ python entertainment_center.py
 ```
 
 
-fresh_tomatoes.html forked from https://github.com/udacity/ud036_StarterCode
+fresh_tomatoes initial structure forked from https://github.com/udacity/ud036_StarterCode
 
 
 _enjoy it_
