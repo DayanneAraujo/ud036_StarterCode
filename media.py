@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Movie:
     """
     The movie attributes to render the movie on the web page.

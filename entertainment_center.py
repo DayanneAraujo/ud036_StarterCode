@@ -7,21 +7,24 @@ import media
 # Matrix
 matrix = media.Movie(
     title="Matrix",
-    img="http://t0.gstatic.com/images?q=tbn:ANd9GcQq3pIz-aKgkmYX1dJ-EL-AlHSPcOO7wdqRIJ5gJy9qNinXpmle",
+    img="http://t0.gstatic.com/images?q=tbn:ANd9GcQq3pIz-aKgkmYX1dJ-EL-AlHSPc"
+        "OO7wdqRIJ5gJy9qNinXpmle",
     trailer="https://www.youtube.com/watch?v=vKQi3bBA1y8"
 )
 
 # Nemo
 nemo = media.Movie(
     title="Finding Nemo",
-    img="http://t1.gstatic.com/images?q=tbn:ANd9GcSoStMb2jeN136xQhf2g3ROpTB9Dker9IlfGbMbwYB3ruC9VcOj",
+    img="http://t1.gstatic.com/images?q=tbn:ANd9GcSoStMb2jeN136xQhf2g3ROpTB9D"
+        "ker9IlfGbMbwYB3ruC9VcOj",
     trailer="https://www.youtube.com/watch?v=wZdpNglLbt8"
 )
 
 # Mad Max
 mad_max = media.Movie(
     title='Mad Max: Fury Road',
-    img="http://t0.gstatic.com/images?q=tbn:ANd9GcQuK41mExh1Qv3kbXoxohWYGlcstOQ6zEnnNdSI2BGIKywQwgRI",
+    img="http://t0.gstatic.com/images?q=tbn:ANd9GcQuK41mExh1Qv3kbXoxohWYGlcst"
+        "OQ6zEnnNdSI2BGIKywQwgRI",
     trailer="https://www.youtube.com/watch?v=hEJnMQG9ev8"
 )
 
@@ -35,7 +38,8 @@ quiet_place = media.Movie(
 # America Captain
 captain_america = media.Movie(
     title="Captain America: The First Avenger",
-    img="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",
+    img="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_"
+        "First_Avenger_poster.jpg",
     trailer="https://www.youtube.com/watch?v=JerVrbLldXw"
 )
 
@@ -43,7 +47,8 @@ captain_america = media.Movie(
 # Star Wars
 star_wars = media.Movie(
     title="Star Wars: the force awakens",
-    img="http://t0.gstatic.com/images?q=tbn:ANd9GcT6nGxj1D4P-9EiVSY32sb6Ql-XQrbeK5FgM37UI6QxcZwfcfVw",
+    img="http://t0.gstatic.com/images?q=tbn:ANd9GcT6nGxj1D4P-9EiVSY32sb6Ql-XQ"
+        "rbeK5FgM37UI6QxcZwfcfVw",
     trailer="https://www.youtube.com/watch?v=sGbxmsDFVnE"
 )
 
