@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import fresh_tomatoes
 import media
 
@@ -35,7 +36,7 @@ quiet_place = media.Movie(
 captain_america = media.Movie(
     title="Captain America: The First Avenger",
     img="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",
-    trailer= "https://www.youtube.com/watch?v=JerVrbLldXw"
+    trailer="https://www.youtube.com/watch?v=JerVrbLldXw"
 )
 
 
@@ -50,7 +51,5 @@ star_wars = media.Movie(
 # Creating movie's list
 movies = [matrix, nemo, mad_max, quiet_place, captain_america, star_wars]
 
-#Open the web browser rendering the movie's list
+# Open the web browser rendering the movie's list
 fresh_tomatoes.open_movies_page(movies)
-
-
